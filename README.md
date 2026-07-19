@@ -33,15 +33,15 @@ step-42, direction-41, sleep - 3.3V!!, reset - 3.3V!!, enable-GND!!, GND-GND, VD
 # KEYCOMBINATIONS:
 
 MENU:
-A: sign in
-B: sign up
+'A': sign in
+'B': sign up
 
 LOGIN:
-#: ENTER
-*: delete
-* (when it's empty): go back to MENU
+'#': ENTER
+'*': delete
+'*' (when it's empty): go back to MENU
 
 ADMIN PANEL:
-1: go left in the list
-2: execute command
-3: go right in the list
+'1': go left in the list
+'2': execute command
+'3': go right in the list
